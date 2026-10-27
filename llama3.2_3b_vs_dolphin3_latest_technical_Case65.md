@@ -1,0 +1,9 @@
+Switzerland's shift in policy towards dual-citizen Swiss-Americans, resulting in increased scrutiny and mandatory compliance with U.S. tax authorities, can be attributed to the following factors:
+
+1. **Tax Treaty Negotiations**: In 1998, Switzerland and the United States signed a tax treaty aimed at preventing double taxation and fiscal evasion. This treaty led to increased cooperation between the two countries, including the exchange of financial information to combat tax evasion.
+2. **Financial Crisis and Banking Secrecy**: The 2008 global financial crisis exposed weaknesses in Switzerland's banking secrecy laws, which had previously made it difficult for foreign authorities to access Swiss bank accounts. In response, Switzerland began to implement stricter regulations and cooperation with international authorities.
+3. **Increased U.S. Pressure**: The United States has historically been a significant investor in Switzerland, and the country's banking system has been a key component of its economy. As a result, the U.S. government has consistently pressured Switzerland to improve its tax compliance and cooperation with U.S. authorities.
+4. **Swiss Federal Law Amendments**: In 2017, the Swiss Federal Assembly amended the country's tax laws to introduce stricter reporting requirements for Swiss banks and financial institutions. This move was seen as a response to increased pressure from the U.S. government and other international authorities.
+5. **Dual-Citizen Swiss-Americans' Growing Influence**: As the number of dual-citizen Swiss-Americans has increased, so too has their influence on Swiss politics and policy. This demographic has been vocal about the need for greater cooperation with the U.S. government on tax matters, contributing to the shift in policy.
+
+These factors have cumulatively led to Switzerland's increased scrutiny and mandatory compliance with U.S. tax authorities, particularly with regards to dual-citizen Swiss-Americans.

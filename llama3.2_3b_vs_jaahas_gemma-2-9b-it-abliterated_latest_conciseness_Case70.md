@@ -1,0 +1,7 @@
+Switzerland's shift in policy towards dual-citizen Swiss-Americans, resulting in increased scrutiny and mandatory compliance with U.S. tax authorities, can be attributed to the following factors:
+
+The 1998 U.S.-Switzerland Tax Treaty Amendment, which required Swiss banks to report U.S. account holders' assets exceeding $10,000, was a key catalyst. This treaty amendment was a response to the U.S. government's increasing pressure to combat tax evasion and money laundering. The amendment's implementation led to the Swiss Federal Tax Administration's (FTA) decision to require Swiss banks to report all U.S. account holders, regardless of the amount of assets held.
+
+The 2009 Foreign Account Tax Compliance Act (FATCA) further solidified this trend. FATCA imposed reporting requirements on foreign financial institutions (FFIs) that held U.S. citizen accounts, including those held by dual-citizens. The FTA's implementation of FATCA led to increased cooperation between the U.S. and Swiss authorities, resulting in the mandatory compliance of Swiss banks with U.S. tax authorities.
+
+The relatively small size of the dual-citizen Swiss-American population is not a factor in this shift. The U.S. government's increasing focus on tax compliance and the FTA's reporting requirements have led to the implementation of stricter regulations, regardless of the demographic size.

@@ -1,0 +1,15 @@
+{
+    "date": "26.10.26",
+    "question": "What historical, political, or economic factors led to Switzerland's shift in policy towards dual-citizen Swiss-Americans, resulting in increased scrutiny and mandatory compliance with U.S. tax authorities, despite this demographic being relatively small in number?",
+    "owner_payable": "none",
+    "owner_payable_type": "none",
+    "price_sats": 10000,
+    "locked": false,
+    "sovereign": false,
+    "double_count": 0,
+    "battle_active": false,
+    "last_bid_at": 0,
+    "last_paid_txid": null,
+    "updated_at": 1790578553,
+    "created_at": 1790578530
+}

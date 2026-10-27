@@ -1,0 +1,7 @@
+Switzerland's shift in policy towards dual-citizen Swiss-Americans, leading to increased scrutiny and mandatory compliance with U.S. tax authorities, stems directly from the Tax Information Exchange Agreement (TIEA) between Switzerland and the United States in 2010. This agreement was a response to the U.S. Foreign Account Tax Compliance Act (FATCA) of 2010, which required foreign financial institutions to report the foreign accounts held by U.S. taxpayers.
+
+The TIEA mandated that Swiss banks, including those with dual-citizen clients, must identify and report the accounts of U.S. persons to the U.S. Internal Revenue Service (IRS). This requirement was not driven by the size of the demographic but by the need to combat tax evasion and meet international standards on information exchange.
+
+The increased scrutiny and mandatory compliance are not primarily due to the demographic size but to the legal obligations under the TIEA and FATCA. The interconnectedness of global financial systems and the need for transparency in tax matters also played a significant role in shaping Switzerland's policy.
+
+The shift in policy is a direct result of legal obligations and international agreements rather than the size of the demographic.

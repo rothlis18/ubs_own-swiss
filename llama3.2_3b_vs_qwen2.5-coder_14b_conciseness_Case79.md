@@ -1,0 +1,9 @@
+Switzerland's shift in policy towards dual-citizen Swiss-Americans, resulting in increased scrutiny and mandatory compliance with U.S. tax authorities, can be attributed to the following factors:
+
+1. **Tax Treaty Amendments**: The 1998 U.S.-Switzerland Tax Treaty Amendment, which expanded the scope of U.S. taxation to include Swiss citizens residing in the United States, marked a significant shift in bilateral cooperation.
+2. **Financial Crisis and FATCA**: The 2008 global financial crisis and the subsequent implementation of the Foreign Account Tax Compliance Act (FATCA) in 2010 increased U.S. scrutiny of foreign financial assets, including those held by Swiss citizens.
+3. **Swiss Banking Secrecy Erosion**: The 2009 Swiss Banking Secrecy Act, which required Swiss banks to report certain foreign account information to the U.S. government, further eroded the country's long-standing banking secrecy laws.
+4. **Increased U.S. Enforcement**: The U.S. Department of the Treasury's Financial Crimes Enforcement Network (FinCEN) and the Internal Revenue Service (IRS) have intensified their efforts to identify and report Swiss citizens' assets held in the United States, leading to increased scrutiny of dual-citizen Swiss-Americans.
+5. **Diplomatic Relations and Bilateral Agreements**: The strengthening of diplomatic relations between Switzerland and the United States, as well as the signing of bilateral agreements, have facilitated cooperation on tax matters and led to increased compliance with U.S. tax authorities.
+
+These factors have cumulatively contributed to the increased scrutiny and mandatory compliance with U.S. tax authorities faced by dual-citizen Swiss-Americans, despite their relatively small number.

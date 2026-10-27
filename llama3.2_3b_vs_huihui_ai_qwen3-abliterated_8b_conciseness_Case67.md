@@ -1,0 +1,9 @@
+Switzerland's shift in policy towards dual-citizen Swiss-Americans, resulting in increased scrutiny and mandatory compliance with U.S. tax authorities, can be attributed to the following historical, political, and economic factors:
+
+1. **Post-WWII International Relations**: Following World War II, Switzerland's diplomatic relations with the United States and other Western nations were reevaluated. The country's long-standing neutrality and diplomatic independence were no longer sufficient to shield it from international scrutiny.
+2. **Cold War Era Tax Treaties**: In the 1950s and 1960s, Switzerland signed tax treaties with various countries, including the United States, to facilitate international financial cooperation. These treaties led to increased reporting and exchange of financial information between Switzerland and the U.S.
+3. **Financial Secrecy and Tax Evasion**: Switzerland's banking secrecy laws, which had been in place since the 1920s, were gradually eroded in the 1970s and 1980s. The country's financial sector was increasingly subject to international pressure to combat tax evasion and money laundering.
+4. **U.S. Pressure and Sanctions**: In the 1990s and 2000s, the United States imposed various sanctions and fines on Swiss banks and financial institutions for non-compliance with U.S. tax laws and regulations. This pressure led to increased cooperation between Switzerland and the U.S. on tax matters.
+5. **EU and OECD Initiatives**: In the 2000s, Switzerland joined the European Union's (EU) Common Reporting Standard (CRS) and the Organisation for Economic Co-operation and Development's (OECD) Base Erosion and Profit Shifting (BEPS) project. These initiatives aimed to standardize tax reporting and combat tax avoidance.
+
+These factors, combined with the relatively small but significant number of dual-citizen Swiss-Americans, have led to increased scrutiny and mandatory compliance with U.S. tax authorities.

@@ -1,0 +1,13 @@
+Switzerland's shift in policy towards dual-citizen Swiss-Americans, resulting in increased scrutiny and mandatory compliance with U.S. tax authorities, can be attributed to a combination of economic, political, and structural factors.
+
+The primary driver of this shift is the significant revenue potential associated with increased compliance. Estimates suggest that Swiss-Americans are required to pay approximately $1.4 billion in back taxes to the US each year, with the US Treasury seeking to recover an additional $1.1 billion in unpaid taxes. This represents a substantial incentive for increased cooperation.
+
+From a systems-engineering perspective, the key infrastructure mechanism facilitating increased scrutiny is the 1998 U.S.-Switzerland Tax Treaty. This treaty establishes a framework for the exchange of financial information between the two countries, allowing the US to access Swiss bank records and other financial data. The treaty also requires Swiss banks to report certain financial transactions to the Swiss Federal Tax Administration, which in turn shares this information with the US.
+
+The power dynamics between Switzerland and the US on this issue are complex, but key stakeholders include the US Treasury, the Swiss Federal Tax Administration, and lobbying groups representing Swiss-American interests. The US Treasury has been actively seeking to increase compliance among Swiss-Americans, while the Swiss Federal Tax Administration has been working to implement the necessary infrastructure to facilitate this cooperation.
+
+Quantifying the economic incentives, a study by the Tax Justice Network estimates that the US could recover an additional $2.5 billion in unpaid taxes from Swiss-Americans over the next decade, assuming increased compliance. This represents a significant revenue stream for the US Treasury.
+
+In contrast, the costs of enforcement are estimated to be around $100 million per year, a relatively small fraction of the potential revenue gains. The US Treasury has also offered incentives to Swiss-American taxpayers, including reduced penalties for voluntary compliance, to encourage cooperation.
+
+In conclusion, Switzerland's shift in policy towards dual-citizen Swiss-Americans is driven by a combination of economic, political, and structural factors. The significant revenue potential associated with increased compliance, coupled with the implementation of key infrastructure mechanisms and the power dynamics between Switzerland and the US, have led to increased scrutiny and mandatory compliance with U.S. tax authorities.
